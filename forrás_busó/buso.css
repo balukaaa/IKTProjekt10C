@@ -48,7 +48,7 @@ q {
 
 li {
 	margin-bottom: 25px;
-    list-style-image: url('jel.png');
+    list-style-image: url(jel.png);
 }
 
 footer{
@@ -63,10 +63,7 @@ footer{
 	font-size: 0.8em;
 }
 
-a {
-	text-transform: uppercase;
-	text-decoration: none;
-}
+
 
 @media screen and (max-width:600px) {
   .balra, .jobbra {
